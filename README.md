@@ -34,15 +34,6 @@ This lab covers the core concepts of **Control Flow** and **Functions** in Pytho
 
 These were successfully detected and skipped using `try/except ValueError`.
 
-
-## How to Run
-
-1. Make sure `week3_students.csv` is in the same folder as the notebook.
-2. Open the notebook: `Week3_BYIRINGIRO_Maurice.ipynb`
-3. Run all cells from top to bottom (or use **Run All**).
-
-No external libraries are required — pure Python only.
-
 ## Key Results
 
 - **Valid records:** 37  
